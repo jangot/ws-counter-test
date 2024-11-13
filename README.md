@@ -1,4 +1,4 @@
-# How to start
+# How to check
 
 ## Start server
 1. Open new console
